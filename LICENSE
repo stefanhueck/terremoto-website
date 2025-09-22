@@ -1,0 +1,59 @@
+Proprietary license (All rights reserved)
+
+Copyright (c) 2025 Terremoto
+
+All rights reserved. No part of this repository, its code, documentation,
+designs, images, or other materials may be copied, modified, distributed,
+transmitted, displayed, performed, reproduced, published, licensed, sold, or
+otherwise exploited for any purpose without the prior written consent of the
+copyright holder.
+
+Permitted uses
+- The copyright holder may grant explicit permission for specific uses (for
+	example, a licensed customer or partner). Such permissions should be
+	provided in writing and may be accompanied by a license file, a signed
+	agreement, or a software distribution package that contains a specific
+	license header.
+
+Suggested EULA / distribution guidance
+- If you plan to distribute this software (even as a compiled/bundled web
+	app), provide a clear EULA or `TERMS.md` with the distribution that covers:
+	- Scope of permitted use (personal, internal business, commercial, etc.)
+	- Redistribution restrictions
+	- Trial terms, if any
+	- Update and support terms
+	- Liability and warranty disclaimers (typical "AS IS" language)
+
+Footer wording for website
+- Footer text to indicate proprietary status:
+	- "© 2025 Terremoto. All rights reserved."
+
+
+Third-party components
+- This repository may include third-party libraries or assets that are
+	distributed under their own licenses (for example BSD, MIT, Apache, or
+	Creative Commons). Those files remain subject to their original license
+	terms. Verify each third-party dependency's license and include any
+	required notices in your distribution.
+
+IGN / CNIG data notice
+- Some data used on this website is obtained from the Instituto Geográfico
+	Nacional (IGN) and the Centro Nacional de Información Geográfica (CNIG).
+	Such data are protected by the corresponding intellectual and industrial
+	property rights and are the property of IGN and CNIG.
+- According to the CNIG provisions regarding "The Reuse of Public Sector
+	Information", the CNIG allows the use, total or partial reproduction,
+	distribution, public communication, re-use, or any other similar activities
+	of texts, documents, pictures, and audio-visual material property of the
+	CNIG contained in this website, subject to the conditions set out at:
+	https://www.ign.es/web/ign/portal/info-aviso-legal
+- When reusing IGN/CNIG material, please follow any required attribution or
+	reuse conditions published by IGN/CNIG on the referenced URL.
+
+External sites disclaimer
+- This project and its copyright holder are not responsible for the content,
+	availability, policies, or actions of external websites (including the
+	IGN/CNIG site). Linking to or referencing an external site does not
+	constitute endorsement, and users should consult the external site's own
+	terms and legal notices. Use of external resources is at the user's own
+	risk.

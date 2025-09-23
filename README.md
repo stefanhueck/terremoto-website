@@ -1,6 +1,6 @@
-# Terremoto Website
+# Terrevision Website
 
-Terremoto is a lightweight, static landing site for the Terremoto iOS app, which provides real‑time earthquake information for the Canary Islands and Madeira.
+Terrevision is a lightweight, static landing site for the Terrevision iOS app, which provides real‑time earthquake information for the Canary Islands and Madeira.
 
 This repository contains the static files used for the public website and GitHub Pages deployment. It is intended as a simple, dependency‑free site (HTML, CSS, and a small amount of JavaScript) to showcase the app and provide download and legal information.
 

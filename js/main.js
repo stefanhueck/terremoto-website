@@ -1,4 +1,4 @@
-// Terremoto website interactions — theme switching aligned with reference site
+// Terrevision website interactions — theme switching aligned with reference site
 (function(){
   const root = document.documentElement;
   const body = document.body;

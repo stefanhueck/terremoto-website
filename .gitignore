@@ -1,0 +1,60 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Thumbnails
+._*
+
+# Icon must be excluded
+Icon\r
+
+# Node (if used)
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Visual Studio Code
+.vscode/
+.vscode/*
+
+# JetBrains IDEs
+.idea/
+
+# Logs
+*.log
+
+# Environment files
+.env
+.env.*
+
+# Build output (if you later add a build step)
+dist/
+build/
+
+# macOS Finder attributes
+.Spotlight-V100
+.Trashes
+
+# Temporary files
+*~
+*.swp
+
+# Generated images or exported assets you don't want to track
+assets/generated/
+
+# Ignore local test servers
+*.pid
+
+# Ignore OS-specific and editor files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Keep the README, LICENSE and source files tracked
+# (No negative patterns needed here)

@@ -58,3 +58,5 @@ Desktop.ini
 
 # Keep the README, LICENSE and source files tracked
 # (No negative patterns needed here)
+assets/.DS_Store
+assets/.DS_Store
